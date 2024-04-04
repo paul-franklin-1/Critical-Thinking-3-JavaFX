@@ -3,7 +3,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
-////////////
+//////////////
 public class LemonadeStand extends Application{
     public void start(Stage firstStage){
         GridPane beverageGrid = new GridPane();
